@@ -9,15 +9,6 @@
 
 # 2. elif
 
-# Handsome='True'
-# Cutie='True'
-# if Handsome=='True' and Cutie=='True':
-#     print("Ritu Baby loves you")
-# elif Handsome=='True' and Cutie!='True':
-#     print("Chances are there, but very less")
-# elif Handsome!='True' and Cutie=='True':
-#     print("She might consider, but amount of being cutie should be increased")
-# else:
-#     print("Run as fast as you can")
+
 
 
